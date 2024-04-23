@@ -1,4 +1,6 @@
-# Your Project Name
+# CreatePixAI 
+
+## This is a image generating ai. It allows users to create tailored images from textual prompts, fostering creativity and engagement across diverse digital platforms
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
