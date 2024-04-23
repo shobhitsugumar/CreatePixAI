@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const Api = axios.create({
-  baseURL: "http://localhost:8080/api",
+  baseURL: "https://createpixai.onrender.com/api/",
 });
 
 export const GetPosts = async () => await Api.get("/post/");
